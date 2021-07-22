@@ -5,25 +5,22 @@
 -->
 
 Sobre mis estudios...
-
 - 🔭 Pasante de Técnico en Informática @ IPN CECyT 5
 - 🔭 Pasante de Ingeniería en Informática @ IPN UPIICSA
-- 🔭 Estudiando para Full Stack Web Developer @ DigitalHouse 
 
 Sobre mis conocimientos...
 - 🌱 HTML - 🌱 CSS - 🌱 JS
 - 👯 SQL  - 👯 MYSQL
 - ⚡ Metodología SCRUM   - ⚡ Control de Versiónes GitHub  
 
-Estoy aprendiendo a usar...
-- 😄 Angular
-- 😄 Mongo DB
+Estoy estudiando...
+- 😄 Full Stack Web Developer @ DigitalHouse
 
-Para contactarme
+Para contactarme...
 - 📫 Correo personal christian990503@hotmail.com
 - 📫 Linkedin https://www.linkedin.com/in/christiangomez0305/
 
-Pasatiempos
+Pasatiempos...
 - ✨ Baloncesto
 - ✨ Videojuegos
 

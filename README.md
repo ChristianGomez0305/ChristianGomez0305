@@ -8,7 +8,7 @@ Sobre mis estudios...
 
 - 🔭 Pasante de Técnico en Informática @ IPN CECyT 5
 - 🔭 Pasante de Ingeniería en Informática @ IPN UPIICSA
-- 🔭 Estudiando para Full Stack Developer @ DigitalHouse 
+- 🔭 Estudiando para Full Stack Web Developer @ DigitalHouse 
 
 Sobre mis conocimientos...
 - 🌱 HTML     - 👯 SQL        -⚡ Metodología SCRUM

@@ -11,9 +11,9 @@ Sobre mis estudios...
 - 🔭 Estudiando para Full Stack Web Developer @ DigitalHouse 
 
 Sobre mis conocimientos...
-- 🌱 HTML     - 👯 SQL        -⚡ Metodología SCRUM
-- 🌱 CSS      - 👯 MYSQL      -⚡ Control de Versiónes GitHub
-- 🌱 JS       
+- 🌱 HTML - 🌱 CSS - 🌱 JS
+- 👯 SQL  - 👯 MYSQL
+- ⚡ Metodología SCRUM   - ⚡ Control de Versiónes GitHub  
 
 Estoy aprendiendo a usar...
 - 😄 Angular
